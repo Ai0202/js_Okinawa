@@ -159,6 +159,10 @@ header {
   font-size: 24px;
   margin-top: 20px;
 }
+
+.small-only {
+    display:none;
+}
 /* curriculumここまで */
 
 /* contact */
@@ -521,6 +525,14 @@ footer .footer-right {
   .img-box li span {
       font-size: 16px;
       margin-top: 20px;
+  }
+
+  .swiper-container {
+    display: none;
+  }
+
+  .small-only {
+    display:block;
   }
   /* curriculumここまで */
 
